@@ -6,5 +6,5 @@ The tracking process is implemented by MATLAB and follows <[2015-High-throughput
 \
 \
 [Tracking processing flowchart]\
-<img src="https://github.com/xiangyu066/Phase3DTracker/blob/main/Tracking_Flowchart.png" width="100%">\
+<img src="https://github.com/xiangyu066/Phase3DTracker/blob/main/Tracking_Flowchart.png" width="100%">
 
